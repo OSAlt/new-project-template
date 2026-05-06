@@ -12,8 +12,8 @@
     "@docusaurus/core": "2.4.3",
     "@docusaurus/preset-classic": "2.4.3",
     "clsx": "1.2.1",
-    "react": "19.2.5",
-    "react-dom": "19.2.5"
+    "react": "19.2.6",
+    "react-dom": "19.2.6"
   },
   "browserslist": {
     "production": [
